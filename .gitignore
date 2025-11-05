@@ -1,0 +1,9 @@
+dataset/
+logs/
+models/
+assets/
+
+*.h5
+
+__pycache__/
+*.pyc
